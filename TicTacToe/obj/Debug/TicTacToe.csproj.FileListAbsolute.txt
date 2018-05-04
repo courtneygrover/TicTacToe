@@ -1,0 +1,14 @@
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment5\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment5\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment5\TicTacToe\TicTacToe\obj\Debug\MainWindow.g.cs
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment5\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment5\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment5\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment5\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment5\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment5\TicTacToe\TicTacToe\obj\Debug\MainWindow.baml
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment5\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment5\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment5\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment5\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\court\Documents\School\Winter2017\CSCD371\Assignment5\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
